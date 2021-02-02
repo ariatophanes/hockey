@@ -1,4 +1,4 @@
-# Hockey Test task
+# Hockey Test Task
 
 APK файл build.apk находится в корневой папке проекта
 
